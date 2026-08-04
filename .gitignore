@@ -1,0 +1,20 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.list
+*.bin
+
+# Eclipse / CubeIDE workspace metadata
+.metadata/
+RemoteSystemsTempFiles/
+.settings/
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db
